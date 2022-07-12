@@ -1,0 +1,19 @@
+NL / Jesteś w lesie. /   las / forest.jpg
+NL / Jesteś w jaskini. / jaskinia / cave.jpg
+NL / Przed Toba smok / drzwi do skarbca / dragon.jpeg
+NL / Smok zionie ogniem, prosto na Ciebie. / walka / rip.jpg
+NL / Uciekasz przed smokiem, za Tobą morze ognia, ale udaje Ci się uciec. / ucieczka / shame.jpeg
+NL / Jesteś w mieście. / miasto / town.jpg
+NL / Sklep z bronią białą / sklep / store.png
+NL / Rublami nie pochandlujesz. / pochandluj / fool.jpg
+NP / las / jaskinia
+NP / las / miasto
+NP / jaskinia / las
+NP / jaskinia / drzwi do skarbca
+NP / drzwi do skarbca / walka
+NP / drzwi do skarbca / ucieczka
+NP / miasto / las
+NP / miasto / sklep
+NP / sklep / miasto
+NP / sklep / pochandluj
+NP / pochandluj / sklep
